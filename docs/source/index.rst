@@ -1,4 +1,4 @@
-Welcome to Django Kong's documentation!
+Welcome to qDOC documentation!
 =======================================
 
 A simple example
